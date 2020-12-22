@@ -9,13 +9,13 @@
                 <select v-model="hotel_in.ciudad"> <!--=></!--->
                   <option disabled value="">Seleccione Ciudad</option>
                   <option>Bogotá</option>
-                  <option>Ciudad 2</option><!--=>Cambiar por los nombres de ciudad existentes</!--->
-                  <option>Ciudad 3</option>
+                  <option>Medellín</option><!--=>Cambiar por los nombres de ciudad existentes</!--->
+                  <option>Neiva</option>
                 </select>
                 <select v-model="hotel_in.zona">
                   <option disabled value="">Seleccione Zona</option>
-                  <option>Norte</option>
                   <option>Centro</option>
+                  <option>Norte</option>
                   <option>Sur</option>
                   <option>Oriente</option>
                   <option>Occidente</option>

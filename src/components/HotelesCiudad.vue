@@ -9,8 +9,8 @@
                 <select v-model="ciudad">
                   <option disabled value="">Seleccione Ciudad</option>
                   <option>Bogotá</option>
-                  <option>Ciudad 2</option><!--=>Cambiar por los nombres de ciudad existentes</!--->
-                  <option>Ciudad 3</option>
+                  <option>Medellín</option><!--=>Cambiar por los nombres de ciudad existentes</!--->
+                  <option>Neiva</option>
                 </select>
                 <select v-model="mes">
                   <option selected disabled value="">Seleccione Mes</option>
