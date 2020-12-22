@@ -48,7 +48,7 @@
                 <th>Nombre Hotel</th>
                 <th>Estrellas</th>
                 <th>Tipo Habitacion</th>
-                <th>Tarifa</th>
+                <th>Tarifa por Noche</th>
                 <th>Ciudad</th>
                 <th>Zona</th>
               </tr>

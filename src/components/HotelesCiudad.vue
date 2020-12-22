@@ -40,7 +40,7 @@
                 <th>Nombre Hotel</th>
                 <th>Estrellas</th>
                 <th>Tipo Habitacion</th>
-                <th>Tarifa</th>
+                <th>Tarifa por Noche</th>
                 <th>Ciudad</th>
                 <th>Zona</th>
               </tr>
@@ -119,7 +119,7 @@ export default {
 .tabla_hotels {
   position: absolute;
   margin-top: 6%;
-  margin-left: 27%;
+  margin-left: 20%;
 }
 
 .formulario {
