@@ -82,7 +82,7 @@ export default {
     enviar: function () {
       var self = this;
       axios
-        .get("http://127.0.0.1:8000/hotelname/" + this.ciudad +"/"+ this.mes)
+        .get("https://hotelapi-g1m2-e12.herokuapp.com/hotelname/" + this.ciudad +"/"+ this.mes)
         .then((result) => {
           this.info = result.data;
         })
